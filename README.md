@@ -1,0 +1,1 @@
+# transabilidadService.ts
